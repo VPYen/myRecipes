@@ -1,17 +1,17 @@
 <div align="center">
-    <h1> My Recipes</h1>
+    <h2> My Recipes</h2>
     <a href="https://github.com/VPYen/myRecipes">
-        <img src=""/>
+        <img src="./src/assets/images/cooking.png" alt=""/>
     </a>
-    <h3>
+    <h4>
         Full Stack Application for Saving Cooking Recipes.
-    </h3>
+    </h4>
 </div>
 
-## Technologies & Libraries
-[![React][React.js]][React-url]
-[![Oracle][Oracle]][Oracle-url]
+---
 
+#### Technologies & Libraries
+[![React][React.js]][React-url] [![Oracle][Oracle]][Oracle-url] [![Python][Python]][Python-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -20,3 +20,6 @@
 
 [Oracle]: https://img.shields.io/badge/Oracle-SQL?style=for-the-badge&logo=oracle&logoColor=red&color=grey
 [Oracle-url]: https://docs.oracle.com/en/database/oracle/oracle-database/index.html
+
+[Python]:https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff
+[Python-url]: https://www.python.org/
